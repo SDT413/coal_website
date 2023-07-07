@@ -1,0 +1,36 @@
+.header {
+    margin: 0;
+    padding: 0;
+    background-image: url(C:/Repositories/Freelance/coal_website/src/assets/images/header.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 650px;
+    display: flex;
+}
+.header-phone {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.header-phone:hover {
+    color: #ffc107;
+}
+.header-phone-logo {
+    height: 80px;
+}
+
+.opacity-container {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100px;
+    width: 30%;
+}
+.opacity-container-right {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100px;
+    width: 35%;
+    margin-left: 35%;
+}
+
